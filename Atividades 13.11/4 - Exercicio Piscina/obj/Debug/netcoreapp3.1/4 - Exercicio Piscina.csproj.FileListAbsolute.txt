@@ -1,0 +1,26 @@
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.csprojAssemblyReference.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.AssemblyInfoInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.AssemblyInfo.cs
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.csproj.CoreCompileInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.exe
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.deps.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.runtimeconfig.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.runtimeconfig.dev.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.genruntimeconfig.cache
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.exe
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.deps.json
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.runtimeconfig.json
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.dll
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\bin\Debug\netcoreapp3.1\4 - Exercicio Piscina.pdb
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.AssemblyInfo.cs
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.dll
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.pdb
+C:\Users\Líder\Desktop\Atividades 13.11\4 - Exercicio Piscina\obj\Debug\netcoreapp3.1\4 - Exercicio Piscina.genruntimeconfig.cache

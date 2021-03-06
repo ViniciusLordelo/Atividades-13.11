@@ -1,0 +1,13 @@
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\bin\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.exe
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\bin\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.deps.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\bin\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.runtimeconfig.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\bin\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.runtimeconfig.dev.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\bin\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\bin\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.csprojAssemblyReference.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.AssemblyInfoInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.AssemblyInfo.cs
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.csproj.CoreCompileInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atividade 1\3 - Calculo de ajuste de salario\obj\Debug\netcoreapp3.1\3 - Calculo de ajuste de salario.genruntimeconfig.cache
